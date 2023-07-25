@@ -3,7 +3,7 @@
 
 It is Fitness website for gym related things 
 
-# visit now https://iridescent-lily-682477.netlify.app/
+# visit now https://precious-lebkuchen-50ed6e.netlify.app/
 
 ## Authors
 
